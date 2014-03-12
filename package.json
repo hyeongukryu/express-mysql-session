@@ -4,6 +4,7 @@
   "version": "0.0.7",
   "main": "index.js",
   "scripts": {},
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git://github.com/chill117/express-mysql-session"
