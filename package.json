@@ -1,13 +1,13 @@
 {
   "name": "express-mysql-session",
   "description": "A MySQL session store for express.js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "scripts": {},
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/chill117/express-mysql-session"
+    "url": "git://github.com/mintrupt/express-mysql-session"
   },
   "author": {
     "name": "Charles Hill",
@@ -19,7 +19,6 @@
   },
   "dependencies": {
     "async": "0.2.10",
-    "mysql": "2.0.1",
     "underscore": "1.6.0"
   },
   "devDependencies": {
