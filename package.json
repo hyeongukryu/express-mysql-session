@@ -20,7 +20,7 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
-    "mysql": "2.0.1"
+    "express-session": "1.0.2"
   },
   "devDependencies": {
     "async": "0.2.10",
